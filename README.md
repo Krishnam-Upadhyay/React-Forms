@@ -6,3 +6,7 @@
 
 04 other inputs 
 ![image](https://github.com/Krishnam-Upadhyay/React-Forms/assets/96679838/a288b6bc-c6f1-4a2d-b11f-45804edd3e0d)
+
+05 controlling form data using formdata api
+![image](https://github.com/Krishnam-Upadhyay/React-Forms/assets/96679838/14562b3f-da39-4757-bfc2-49d1481f56b9)
+
